@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+chroma_langchain_db/
+*.db
+*.sqlite
+.DS_Store
